@@ -244,7 +244,9 @@ function App() {
                 View Projects
               </a>
               <a
-                href="#contact"
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://drive.google.com/file/d/1N33IriMKccSnJLofGEpVVAo5W4zI3hru/view?usp=drive_link"
                 className="px-8 py-3 border border-slate-300 dark:border-slate-700 hover:border-teal-500 dark:hover:border-teal-400 rounded font-medium transition-all text-slate-900 dark:text-white"
               >
                 Download CV
